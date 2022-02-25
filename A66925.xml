@@ -1,0 +1,293 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>On the death of His Late Sacred Majesty King Charles II, of ever blessed memory a Pindarique ode / by Fitz Norris Wood.</title>
+            <author>Wood, Fitz Norris.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66925</idno>
+            <idno type="STC">Wing W3389</idno>
+            <idno type="STC">ESTC R15593</idno>
+            <idno type="EEBO-CITATION">13031169</idno>
+            <idno type="OCLC">ocm 13031169</idno>
+            <idno type="VID">96739</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66925)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96739)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 403:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>On the death of His Late Sacred Majesty King Charles II, of ever blessed memory a Pindarique ode / by Fitz Norris Wood.</title>
+                  <author>Wood, Fitz Norris.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Croom ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96739:1"/>
+            <pb facs="tcp:96739:1" rendition="simple:additions"/>
+            <p>ON THE DEATH OF HIS LATE SACRED MAJESTY King CHARLES II. OF EVER BLESSED MEMORY.</p>
+            <p>A PINDARIQUE ODE.</p>
+            <p>BY FITZ NORRIS WOOD.</p>
+            <q xml:lang="lat">
+               <l>
+                  <hi>Tu</hi> non Carminibus noſtris Indictus abibis.</l> 
+               <bibl>Virgil.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>George Croom,</hi> at the Sign of the <hi>Blue-Ball</hi> in <hi>Thames-ſtreet,</hi> over againſt <hi>Baynard</hi>'s<hi>-Caſtle.</hi> 1685.</p>
+            <pb facs="tcp:96739:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="Pindaric_ode">
+            <pb n="3" facs="tcp:96739:2"/>
+            <head>ON THE DEATH OF HIS LATE SACRED MAJESTY King CHARLES II. OF EVER BLESSED MEMORY. A PINDARIQUE ODE.</head>
+            <div n="1" type="stanza">
+               <head>STANZA I.</head>
+               <l>HOw ſhort, how very ſhort's the Date,</l>
+               <l>Of what we fondly ſtile Felicity?</l>
+               <l>For where's the Man, or where's the State,</l>
+               <l>That's not a Slave to Fate?</l>
+               <l>And muſt to his Tyrannical Decree</l>
+               <l>For ever, oh for ever Tributary be.</l>
+               <l>Alas, and yet 'tis true! 'twas but ere while</l>
+               <l>Joy, like the Ocean, did embrace our Iſle,</l>
+               <l>And every Viſage word one Univerſal Smile.</l>
+               <pb n="4" facs="tcp:96739:3"/>
+               <l> When on the Wings of Fame</l>
+               <l>Th' amazing Tidings ſwiftly came,</l>
+               <l>Great <hi>Charles,</hi> Great <hi>Charles,</hi> our Royal <hi>Soveraign</hi>'s Dead,</l>
+               <l>Ah me! how Dolefully the Eccho ſpread,</l>
+               <l>Great <hi>Charles,</hi> Great <hi>Charles,</hi> our Royal <hi>Soveraign</hi>'s Dead.</l>
+            </div>
+            <div n="2" type="stanza">
+               <head>II.</head>
+               <l>Harſh Fate! could nothing leſs a Victim be,</l>
+               <l>T' appeaſe the angry Deity<g ref="char:punc">▪</g>
+               </l>
+               <l>Or is but thy Uſury;</l>
+               <l>When for <hi>Our Crimes,</hi> thou do'ſt thy <hi>Reckoning</hi> call,</l>
+               <l>That thus the <hi>Intereſt</hi> ſhould Exceed the <hi>Principal.</hi>
+               </l>
+               <l>Raſh as thou art, look back and ſee</l>
+               <l>Thy Darts Luxurious Liberty;</l>
+               <l>Conſider what thou'ſt done, and know</l>
+               <l>In this Cruel heedleſs Blow:</l>
+               <l>Thou'ſt wrought more Detriment to Man,</l>
+               <l>Than if a Colony at leaſt thou'ſt Slain;</l>
+               <l>They of the <hi>common Croud</hi> but <hi>Ciphers</hi> are,</l>
+               <l>Whom without <hi>Loſs</hi> their <hi>Countrey</hi> ſpare:</l>
+               <l>But if a <hi>King</hi> in <hi>Iſrael</hi> Fall,</l>
+               <l>Such an one as he,</l>
+               <l>For Wiſedom, and for Piety,</l>
+               <l>A <hi>David,</hi> or a <hi>Solomon.</hi>
+               </l>
+               <l>The mighty Ruine's Epidemical:</l>
+               <l>Empires beneath the preſſure ſhrink and the whole World does Groan.</l>
+            </div>
+            <div n="3" type="stanza">
+               <pb n="5" facs="tcp:96739:3"/>
+               <head>III.</head>
+               <l>Nor leſs is to thy <hi>MANES</hi> due,</l>
+               <l>Oh <hi>Wondrous Prince!</hi> For who can view</l>
+               <l>With Tearleſs Eyes</l>
+               <l>Thy Mournful Obſequies?</l>
+               <l>Where are thoſe Hearts of <hi>Adamant</hi> or <hi>Steel,</hi>
+               </l>
+               <l>That in thy Wounds, no Woundings feel;</l>
+               <l>And are not touch'd by Sympathy,</l>
+               <l>Oh <hi>Wondrous Prince!</hi> Oh <hi>Fatal Deſtiny!</hi>
+               </l>
+               <l>Why is he ſnatch'd away ſo ſoon?</l>
+               <l>Who whil'ſt he wore an Earthly Crown,</l>
+               <l>Was <hi>Albions</hi> chief Delight, and <hi>Albions</hi> chief Renown:</l>
+               <l>So Godlike, and ſo Great, ſo Extenſive in his Power,</l>
+               <l>The Almighty only more:</l>
+               <l>He <hi>ſaid the Word,</hi> and all Obey'd.</l>
+               <l>
+                  <hi>Faction</hi> at home withdrew its <hi>Hydra</hi> Head,</l>
+               <l>And crept in ſilence to a <hi>Forreign Shore</hi>
+               </l>
+               <l>That dar'd to <hi>Hiſs,</hi> and ſhew i'ts <hi>Sting</hi> before.</l>
+            </div>
+            <div n="4" type="stanza">
+               <head>IV.</head>
+               <l>Great Arbiter of Peace!</l>
+               <l>He <hi>ſaid the Word,</hi> and War did Ceaſe.</l>
+               <l>
+                  <hi>Earope</hi> of <hi>Blood,</hi> and <hi>ſaughter</hi> late the <hi>Scene,</hi>
+               </l>
+               <l>By his <hi>Heroulean Wiſdom</hi> was made Clean.</l>
+               <l>The proudeſt Son of <hi>Mars,</hi> fluſh'd in the Arts of Death,</l>
+               <pb n="6" facs="tcp:96739:4"/>
+               <l> Obey'd his awful Breath:</l>
+               <l>The thoughts of Victory, which he valued more</l>
+               <l>Than Miſers do their hoarded Ore:</l>
+               <l>He quite forgot, and Bluſhing left the Field,</l>
+               <l>Oblig'd unwillingly to Yield.</l>
+               <l>
+                  <hi>Affrick</hi> it ſelf, and every <hi>diſtant Clime,</hi>
+               </l>
+               <l>Where 'ere the Mouth of Fame</l>
+               <l>Had told, (and tell me where it had not) <hi>Charles</hi> his Name</l>
+               <l>Bow'd as Petitioners to him:</l>
+               <l>From unknown Seas, ore unknown Lands they Trod</l>
+               <l>T'adore the <hi>
+                     <g ref="char:V">Ʋ</g>mpire</hi> of the <hi>World,</hi> and <hi>Englands Demy God.</hi>
+               </l>
+            </div>
+            <div n="5" type="stanza">
+               <head>V.</head>
+               <l>All this he was—but who can tell the reſt,</l>
+               <l>How can it be for Grief Expreſs't?</l>
+               <l>For ſhould we ſay, how juſt, how good, how merciful he was,</l>
+               <l>How far from Paſſion, and how full of Peace,</l>
+               <l>How free, how kind, how ready to relieve</l>
+               <l>His injur'd Friend, and worſt of Enemies forgive.</l>
+               <l>The <hi>Summ</hi> of Tears to his joynt Graces due;</l>
+               <l>Tho every <hi>Pore</hi> ſhould Weep, and every <hi>Vein</hi> ſupply,</l>
+               <l>Till thoſe were ſtop'd, and theſe were Dry,</l>
+               <l>Yet all would be too few.</l>
+               <l>Say we then no more, but only grieve that Heaven</l>
+               <l>Who to Dread <hi>Charles</hi> ſo much had given</l>
+               <pb n="7" facs="tcp:96739:4"/>
+               <l> Did not not to crown his Bounty, make his <hi>Charter</hi> free</l>
+               <l>From the Incroachments of Mortality:</l>
+               <l>At leaſt, in this our Age, it might not have been ſaid</l>
+               <l>The beſt of Princes that ere liv'd; Ah me! is Dead.</l>
+            </div>
+            <div n="6" type="stanza">
+               <head>VI.</head>
+               <l>Oh ſudden Change! Oh cruel Death,</l>
+               <l>Gorg'd with imperial Breath:</l>
+               <l>Boaſt of thy Triumph, thou haſt done thy worſt,</l>
+               <l>And ſhalt at laſt thy ſelf be Curſt.</l>
+               <l>Nor can thy Conqueſts o'r the juſt and brave,</l>
+               <l>Extend beyond the limits of a Grave;</l>
+               <l>'Tis all that thou can'ſt do</l>
+               <l>Thou Conquer'ſt but by halves, and that the leaſt half too:</l>
+               <l>Imperious as thou art, thy Tyrannous Dart</l>
+               <l>Could never reach the <hi>Immortal part:</hi>
+               </l>
+               <l>Thou ſtrik'ſt the <hi>Out-works</hi> down, but dar'ſt not try</l>
+               <l>Beyond the <hi>breach,</hi> a hopeleſs <hi>Victory,</hi>
+               </l>
+               <l>Poor <hi>Conquerour!</hi> where thy <hi>ſtroak</hi> the <hi>Soul</hi> ſets free,</l>
+               <l>When thou haſt done thy worſt, to <hi>Vanquiſh</hi> thee.</l>
+            </div>
+            <div n="7" type="stanza">
+               <head>VII.</head>
+               <l>This Great Mans Loſs then let us Weep no more,</l>
+               <l>There's little Juſtice in our Tears<g ref="char:punc">▪</g>
+               </l>
+               <l>Sorrow muſt know its Period too,</l>
+               <pb n="8" facs="tcp:96739:5"/>
+               <l> For all that we can do</l>
+               <l>Degenerous Appears:</l>
+               <l>And ſhows, as if becauſe our ſelves are Poor,</l>
+               <l>We envied his Coeleſtial Store.</l>
+               <l>Hail then bleſt Saint, all hail to thee!</l>
+               <l>Who having paſt Lifes ſtormy Sea,</l>
+               <l>Art ſafely landed on that Happy Shore,</l>
+               <l>Where thou ſhalt never, never ſuffer more.</l>
+               <l>VVhil'ſt we who are confin'd to wait</l>
+               <l>The ſlow advance of Fate;</l>
+               <l>Are made the ſport of every riſing VVave,</l>
+               <l>That only ſhews and mocks us with a Grave:</l>
+               <l>Yet tell's us not when we ſhall ſafely land,</l>
+               <l>On that Immortal ſtrand,</l>
+               <l>Where with thy <hi>Great Fore-Fathers</hi> thou art Bleſt</l>
+               <l>With <hi>Halcion Calmes,</hi> and <hi>Everlaſting Reſt.</hi>
+               </l>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:96739:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
